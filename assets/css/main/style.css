@@ -158,9 +158,7 @@ body {
 
 /**
 * Template Name: Personal - v2.1.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+
 */
 
 /*--------------------------------------------------------------
@@ -201,6 +199,11 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+}
+
+.centered-heading {
+    color: #12d640;
+    text-align: center;
 }
 
 /*--------------------------------------------------------------
@@ -632,6 +635,12 @@ section .container {
   transition: .9s;
   background-color: #1c7d32;
 }
+
+
+.icon-box img {
+  margin-right: 10px;
+}
+
 
 /*--------------------------------------------------------------
 # Interests
